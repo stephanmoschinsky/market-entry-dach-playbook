@@ -1,11 +1,25 @@
 # Market Entry DACH – Execution Playbook
 
-This repository outlines a practical execution framework for companies entering the German / DACH market.
+## Contents
 
-Focus:
-- ownership before strategy
-- structure before scale
-- execution before optimisation
+1. **Market Entry Failure Map**  
+   Common internal breakdowns that kill DACH market entry before sales start.  
+   → [`01-market-entry-failure-map.md`](./01-market-entry-failure-map.md)
 
-This is not a consulting model.
-It is an operator’s view on what actually breaks — and what works — in real market entry situations.
+2. **90-Day Execution Framework**  
+   A concrete operating system for the first 90 days of execution.  
+   → [`02-90-day-execution-framework.md`](./02-90-day-execution-framework.md)
+
+3. **Business Unit Launch Checklist**  
+   A hard launch gate for CEOs and boards.  
+   → [`03-business-unit-launch-checklist.md`](./03-business-unit-launch-checklist.md)
+
+---
+
+## How to use this repository
+
+- Read **01** to understand why market entry fails  
+- Apply **02** to execute correctly  
+- Use **03** as a launch and continuation gate
+
+If any step fails, do not proceed.

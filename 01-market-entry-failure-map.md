@@ -11,7 +11,7 @@ This map outlines the most common failure points.
 
 ## 1. Ownership & Mandate
 
-- No single accountable owner for market entry
+- No clear accountable owner for market entry execution
 - Split responsibility between HQ and local team
 - Local leadership without real decision power
 - “Exploration” without an execution mandate
@@ -55,3 +55,5 @@ This map outlines the most common failure points.
 ---
 
 This is a failure pattern — not an exception.
+
+These are common patterns we consistently identify across DACH market entries. Our frameworks are designed to prevent these breakdowns by creating clear ownership and execution structures early on.

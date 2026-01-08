@@ -1,5 +1,11 @@
 # Market Entry DACH – Execution Playbook
 
+This repository is for founders, CEOs, and board-level operators 
+responsible for international market entry into Germany / DACH.
+
+If you are looking for general advice, best practices, or educational material,
+this repository is not designed for you.
+
 This repository documents recurring structural failure patterns in international DACH market entry — and the execution logic required to avoid them.
 
 It is not a methodology.
@@ -31,6 +37,10 @@ It is an executive reference for decision-making under uncertainty.
 ## How to use this repository
 
 This repository is not meant to be consumed linearly.
+
+If you are new to this repository:
+Start with **04 – Executive Warning Signals**.
+It will tell you whether deeper execution work is even necessary.
 
 - Use **01** to recognise structural failure patterns.
 - Use **02** to establish execution as an operating state.

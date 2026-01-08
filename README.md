@@ -38,7 +38,8 @@ It is an executive reference for decision-making under uncertainty.
 
 This repository is not meant to be consumed linearly.
 
-**New here? Start with 04 – Executive Warning Signals.**
+**New here?**  
+Start with **04 – Executive Warning Signals**.  
 It will tell you whether deeper execution work is even necessary.
 
 - Use **01** to recognise structural failure patterns.
